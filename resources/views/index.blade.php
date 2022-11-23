@@ -4,12 +4,12 @@
     <div class="background-image grid grid-cols-1 m-auto">
         <div class="flex text-gray-100 pt-10">
             <div class="m-auto pt-4 pb-16 sm:m-auto w-4/5 block text-center">
-                <h1 class="sm:text-white text-5xl uppercase font-bold text-shadow-md pb-14">
+                <h1 class="sm:text-grey text-5xl uppercase font-bold text-shadow-md pb-14">
                     Everything Cyber Security related at the tip of your fingers. Tales from real field experts to your eyes.
                 </h1>
                 <a
                     href="/blog"
-                    class="text-center bg-gray-50 text-gray-700 py-2 px-4 font-bold text-xl uppercase">
+                    class="uppercase bg-blue-500 text-gray-100 text-s font-extrabold py-3 px-8 rounded-3xl">
                     Get CyberSecing!
                 </a>
             </div>

@@ -8,7 +8,9 @@
         </h1>
     </div>
 </div>
-
+<div>
+    <img src="{{ asset('images/' . $post->image_path) }}" class="p- bg-white border rounded max-w-sm">
+</div>
 <div class="w-4/5 m-auto pt-20">
     <span class="text-gray-500">
         By <span class="font-bold italic text-gray-800">{{ $post->user->name }}</span>, Created on {{ date('jS M Y', strtotime($post->updated_at)) }}
@@ -19,4 +21,4 @@
     </p>
 </div>
 
-@endsection 
+@endsection
