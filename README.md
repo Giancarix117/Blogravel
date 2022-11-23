@@ -6,7 +6,7 @@
 ## Usage <br>
 Setting up your development environment on your local machine: <br>
 ```
-git clone https://github.com/Giancarix117/LaraBlog
+git clone https://github.com/Giancarix117/Blogravel
 cp .env.example .env
 composer install
 php artisan key:generate
