@@ -9,7 +9,7 @@
     </div>
 </div>
 <div>
-    <img src="{{ asset('images/' . $post->image_path) }}" class="p- bg-white border rounded max-w-sm">
+    <img class="pl-40 rounded max-w-2xl" src="{{ asset('images/' . $post->image_path) }}">
 </div>
 <div class="w-4/5 m-auto pt-20">
     <span class="text-gray-500">
